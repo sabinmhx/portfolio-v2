@@ -42,6 +42,7 @@ The following technologies were used to create this website:
 To run this website locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine using
+
     ```
     git clone https://github.com/sabinmhx/portfolio-v2.git
     ```
@@ -51,6 +52,7 @@ To run this website locally on your machine, follow these steps:
     ```
     cd portfolio-v2
     ```
+
 3. Set up a local PHP server (e.g., using XAMPP or MAMP).
 
 4. Open the website in your web browser by visiting `http://localhost/portfolio-v2`
