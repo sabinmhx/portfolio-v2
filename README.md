@@ -1,6 +1,6 @@
 # Portfolio Website (Second Version)
 
-<a herf="https://www.sabin-maharjan.com.np" target="_blank">Check My Website</a>
+[Check My Website](https://www.sabin-maharjan.com.np)
 
 ![Portfolio Website](assets/img/personal_portfolio_v2.png)
 
