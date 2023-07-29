@@ -78,7 +78,3 @@ Let's connect! You can reach me through the following channels:
 ## 📄License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for visiting my portfolio website! I hope you enjoy exploring my work and learning more about me as a web developer. If you have any feedback or questions, don't hesitate to get in touch. Happy coding! 🚀
