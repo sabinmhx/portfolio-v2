@@ -1,6 +1,6 @@
 # Portfolio Website (Second Version)
 
-[Check My Website](https://www.sabin-maharjan.com.np)
+[Check My Website here](https://www.sabin-maharjan.com.np)
 
 ![Portfolio Website](assets/img/personal_portfolio_v2.png)
 
