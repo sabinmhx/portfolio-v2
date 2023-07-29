@@ -70,8 +70,8 @@ Let's connect! You can reach me through the following channels:
 
 - Website: [www.sabin-maharjan.com.np](https://www.sabin-maharjan.com.np)
 - Email: sabinmhx@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sabinmhx)
-- Twitter: [Your Twitter Handle](https://twitter.com/sabinmhx)
+- LinkedIn: [@sabinmhx](https://www.linkedin.com/in/sabinmhx)
+- Twitter: [@sabinmhx](https://twitter.com/sabinmhx)
 
 ## 📄License
 
