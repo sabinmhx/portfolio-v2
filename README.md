@@ -2,7 +2,7 @@
 
 [Check My Website here](https://www.sabin-maharjan.com.np)
 
-![Portfolio Website](assets/img/personal_portfolio_v2.png)
+![Portfolio Website](assets/img/portfolio_v2.png)
 
 Welcome to my personal portfolio website! This is a showcase of my skills, projects, and achievements as a web developer. Feel free to explore and get to know me better.
 
